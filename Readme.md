@@ -10,7 +10,7 @@ Build a Restful CRUD API for a simple Note-Taking application using Node.js, Exp
 npm install
 ```
 
-2. Run Server
+2. Run Server app
 
 ```bash
 node server.js
