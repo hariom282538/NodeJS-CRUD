@@ -4,7 +4,7 @@ Build a Restful CRUD API for a simple Note-Taking application using Node.js, Exp
 
 ## Steps to Setup
 
-1. Install dependencies
+1. Install dependencies which are required
 
 ```bash
 npm install
